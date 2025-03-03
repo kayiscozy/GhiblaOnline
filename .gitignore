@@ -1,0 +1,12 @@
+Library/
+Logs/
+Temp/
+UserSettings/
+MemoryCaptures/
+*.csproj
+*.sln
+*.pidb
+*.unityproj
+*.swp
+.DS_Store
+
